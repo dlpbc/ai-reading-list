@@ -12,7 +12,7 @@ http://iamtrask.github.io/2017/03/21/synthetic-gradients/
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/  
 *Short Note: link to an article written about a talk about potential explanation of why neural net works was given.*
 
-#### [about-sgd] - blogpost  
+#### [About SGD] - blogpost  
 https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17  
 *Short Note: *
 
@@ -24,8 +24,9 @@ https://arxiv.org/abs/1709.07417
 https://www.youtube.com/watch?v=Sss2EA4hhBQ&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT  
 *Short Note: Carnegie Mellon University lectures on Neural Networks for Natural Language Processing (NLP)*
 
-
-
+#### [Building your own neural machine translation system] - blogpost, nmt, seq2seq  
+https://research.googleblog.com/2017/07/building-your-own-neural-machine.html  
+*Short Note:*
   
 
 ## Read/Watched
