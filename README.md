@@ -1,6 +1,5 @@
-# reading-list
 
-## Unread
+## Unread/Unwatched
 #### [Meta Learning] - article  
 https://www.cifar.ca/assets/machines-learn-new-ways-of-learning/  
 *Short Note: *
@@ -31,4 +30,4 @@ https://www.youtube.com/watch?v=Ko8IBbYjdq8
 
   
 
-## Read
+## Read/Watched
