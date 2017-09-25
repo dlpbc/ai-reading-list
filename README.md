@@ -24,10 +24,11 @@ https://arxiv.org/abs/1709.07417
 https://www.youtube.com/watch?v=Sss2EA4hhBQ&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT  
 *Short Note:*
 
-#### [Learning Through Interation: Generalisation in Robot RL] - video  
-https://www.youtube.com/watch?v=Ko8IBbYjdq8  
-*Short Note:*
+
 
   
 
 ## Read/Watched
+#### [Learning Through Interaction: Generalisation in Robot RL] - video (highly technical)
+https://www.youtube.com/watch?v=Ko8IBbYjdq8  
+*Short Note: Presenter presents a talk on the future of generalisation from two aspects. (a) Generalise to new tasks previously unseen (using visual video prediction) (b) Incorportate experiences from previous tasks into new tasks (few shot/transfer learning)*
