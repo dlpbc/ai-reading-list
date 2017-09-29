@@ -6,3 +6,8 @@ Unfortunately, it's only available to google cloud compute users and internally 
   
 However, there's an open source implementation of this tool. (Disclaimer: I haven't tried it out)  
 **open source implementation**: https://github.com/tobegit3hub/advisor
+
+
+## University of Toronto course on Bayesian Neural Networks
+#### (CSC2541: Scalable and Flexible Models of Uncertainty)  
+https://csc2541-f17.github.io/
