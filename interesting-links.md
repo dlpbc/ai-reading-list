@@ -11,3 +11,6 @@ However, there's an open source implementation of this tool. (Disclaimer: I have
 ## University of Toronto course on Bayesian Neural Networks
 #### (CSC2541: Scalable and Flexible Models of Uncertainty)  
 https://csc2541-f17.github.io/
+
+## Gentler introduction to Variational Auto Encoder (VAE)
+https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=0
