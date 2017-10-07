@@ -8,10 +8,6 @@ https://www.cifar.ca/assets/machines-learn-new-ways-of-learning/
 http://iamtrask.github.io/2017/03/21/synthetic-gradients/  
 *Short Note: rather than actually compute gradient via backprop, each NN layer approximates their gradient by learning.*
 
-#### [Understanding why Deep Nets work - Information bottleneck] - article  
-https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/  
-*Short Note: link to an article written about a talk about potential explanation of why neural net works was given.*
-
 #### [About SGD] - blogpost  
 https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17  
 *Short Note: *
@@ -33,3 +29,8 @@ https://research.googleblog.com/2017/07/building-your-own-neural-machine.html
 #### [Learning Through Interaction: Generalisation in Robot RL] - video (highly technical)  
 https://www.youtube.com/watch?v=Ko8IBbYjdq8  
 *Short Note: Presenter presents a talk on the future of generalisation from two aspects. (a) Generalise to new tasks previously unseen (using visual video prediction) (b) Incorportate experiences from previous tasks into new tasks (few shot/transfer learning)*
+
+#### [Understanding why Deep Nets work - Information bottleneck] - article, video (highly technical)  
+https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/  
+https://www.youtube.com/watch?v=bLqJHjXihK8  
+*Short Note: An hypothesis/theory of why/how (deep) neural nets works well. The basic idea is that the network learns to forget irrelevant parts of the training sample. Hence, only relevant information (features) of the training samples are squeezed through (the metaphorical bottleneck) as you propagate forward from layer to layer in a neural net.*
