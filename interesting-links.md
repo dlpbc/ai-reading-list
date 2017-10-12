@@ -14,3 +14,6 @@ https://csc2541-f17.github.io/
 
 ## Gentler introduction to Variational Auto Encoder (VAE)
 https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=0
+
+## Simple introduction to deep learning techniques (cnns, rnns, vae) using tensorflow
+https://github.com/pkmital/tensorflow_tutorials
