@@ -1,5 +1,5 @@
 
-Read Blog post [here](https://medium.com/@Numenta/todays-weak-ai-lacks-intelligence-49869b4c61ae)
+Read blog post [here](https://medium.com/@Numenta/todays-weak-ai-lacks-intelligence-49869b4c61ae)
 
 [Numenta](https://numenta.org) argues that:
 
