@@ -34,3 +34,7 @@ https://www.youtube.com/watch?v=Ko8IBbYjdq8
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/  
 https://www.youtube.com/watch?v=bLqJHjXihK8  
 *Short Note: An hypothesis/theory of why/how (deep) neural nets works well. The basic idea is that the network learns to forget irrelevant parts of the training sample. Hence, only relevant information (features) of the training samples are squeezed through (the metaphorical bottleneck) as you propagate forward from layer to layer in a neural net.*
+
+#### [Today’s Weak AI Lacks Intelligence by Numenta] - blogpost
+https://medium.com/@Numenta/todays-weak-ai-lacks-intelligence-49869b4c61ae
+*Short Note: They (Numenta) argue that we need to upgrade ANNs. Neurons in ANN were modeled after our neuro science understanding of the brain in the 1970s. There have been advances in Neuroscience about our understanding of neurons and Numenta believes this should be infused into our ANNs. See (here)https://github.com/dlpbc/notes/weak-ai-lacks-intelligence for complete note.
