@@ -12,10 +12,6 @@ http://iamtrask.github.io/2017/03/21/synthetic-gradients/
 https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17  
 *Short Note: *
 
-#### [Neural Optimizer search] - research paper, meta-learning  
-https://arxiv.org/abs/1709.07417  
-*Short Note: neural optimizer. authors learnt new optimizers from cifar-10 dataset and claim that they generalise to other tasks.*
-
 #### [CMU Fall 2017 NLP Course] - video, nlp-lectures  
 https://www.youtube.com/watch?v=Sss2EA4hhBQ&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT  
 *Short Note: Carnegie Mellon University lectures on Neural Networks for Natural Language Processing (NLP)*
@@ -34,6 +30,10 @@ https://www.youtube.com/watch?v=Ko8IBbYjdq8
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/  
 https://www.youtube.com/watch?v=bLqJHjXihK8  
 *Short Note: An hypothesis/theory of why/how (deep) neural nets works well. The basic idea is that the network learns to forget irrelevant parts of the training sample. Hence, only relevant information (features) of the training samples are squeezed through (the metaphorical bottleneck) as you propagate forward from layer to layer in a neural net.*
+
+#### [Neural Optimizer search] - research paper, meta-learning  
+https://arxiv.org/abs/1709.07417  
+*Short Note: neural optimizer. authors learnt new optimizers from cifar-10 dataset and claim that they generalise to other tasks. (More notes to come)*
 
 #### [Today’s Weak AI Lacks Intelligence by Numenta] - blogpost
 https://medium.com/@Numenta/todays-weak-ai-lacks-intelligence-49869b4c61ae  
