@@ -1,4 +1,7 @@
-Numenta argues that:
+
+Read Blog post [here](https://medium.com/@Numenta/todays-weak-ai-lacks-intelligence-49869b4c61ae)
+
+[Numenta](https://numenta.org) argues that:
 
 We need to build better models of brain. ANN is an overly simplistic model of neurons in the brain based on neuroscience knowledge of the brain in the 1970s (a collection and interconnection of something called point neurons). They argue that modern day neuroscience now understand the brain to have **pyramidal neuron structure** and this can be used to upgrade our neural net models (instead of using a simplistic neuron model approach). They believe that Strong AI cannot be achieved/built using this crude neuron model.
 
