@@ -37,4 +37,4 @@ https://www.youtube.com/watch?v=bLqJHjXihK8
 
 #### [Today’s Weak AI Lacks Intelligence by Numenta] - blogpost
 https://medium.com/@Numenta/todays-weak-ai-lacks-intelligence-49869b4c61ae
-*Short Note: They (Numenta) argue that we need to upgrade ANNs. Neurons in ANN were modeled after our neuro science understanding of the brain in the 1970s. There have been advances in Neuroscience about our understanding of neurons and Numenta believes this should be infused into our ANNs. See [here](https://github.com/dlpbc/ai-reading-list/notes/weak-ai-lacks-intelligence-by-numenta.md) for complete note.*
+*Short Note: They (Numenta) argue that we need to upgrade ANNs. Neurons in ANN were modeled after our neuro science understanding of the brain in the 1970s. There have been advances in Neuroscience about our understanding of neurons and Numenta believes this should be infused into our ANNs. See [here](https://github.com/dlpbc/ai-reading-list/blob/master/notes/weak-ai-lacks-intelligence-by-numenta.md) for complete note.*
