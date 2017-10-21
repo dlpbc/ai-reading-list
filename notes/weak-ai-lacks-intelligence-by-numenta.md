@@ -15,5 +15,5 @@ For strong AI to be achieve, they suggest/believe:
    research (link [here](https://www.technologyreview.com/s/603803/facebooks-ai-chief-machines-could-learn-common-sense-from-video/))
 
    Generally speaking, I believe that Numenta's idea of movement is currently being tackled by
-   *Reinforcement Learning* (which is all about agent exploration/interaction of environment/world with 
+   **Reinforcement Learning** (which is all about agent exploration/interaction of environment/world with 
    rewards and punishments scheme in place)
