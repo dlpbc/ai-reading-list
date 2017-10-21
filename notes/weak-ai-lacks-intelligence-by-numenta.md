@@ -10,9 +10,9 @@ For strong AI to be achieve, they suggest/believe:
 2. Movement: That is any stong (true) intelligent system being built should be able to move (which they argue could simply be about "taking actions that changes your point of observation").  
    They write:
    "Your brain is constantly computing not only what things are about to happen in the world around 
-   you..."
+   you..."  
    I believe this is what Yann Lecun is currently tackling and belives is the next direction of AI
-   research (link here: https://www.technologyreview.com/s/603803/facebooks-ai-chief-machines-could-learn-common-sense-from-video/)
+   research (link [here](https://www.technologyreview.com/s/603803/facebooks-ai-chief-machines-could-learn-common-sense-from-video/))
 
    Generally speaking, I believe that Numenta's idea of movement is currently being tackled by
    *Reinforcement Learning* (which is all about agent exploration/interaction of environment/world with 
