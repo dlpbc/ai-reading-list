@@ -38,3 +38,7 @@ https://arxiv.org/abs/1709.07417
 #### [Today’s Weak AI Lacks Intelligence by Numenta] - blogpost
 https://medium.com/@Numenta/todays-weak-ai-lacks-intelligence-49869b4c61ae  
 *Short Note: They (Numenta) argue that we need to upgrade ANNs. Neurons in ANN were modeled after our neuroscience understanding of the brain in the 1970s. There have been advances in neuroscience about our understanding of biological neurons and they believe this should be infused into our artificial models of the brain. See [here](https://github.com/dlpbc/ai-reading-list/blob/master/notes/weak-ai-lacks-intelligence-by-numenta.md) for complete note.*
+
+#### [Does AI needs more innate machinery] - video, debate
+https://www.youtube.com/watch?v=vdWPQ6iAkT4  
+*Short Note: An interesting debate between 2 AI researchers from different backgrounds (Gary Marcus, a cognitive science and Yann lecun, a neural net researcher). Gary wants AI to infuse more innate machinery (such as object respresentation, causality, ) and cites translation invariance as a success story of infusing innate machinery into AI as seen in convolutional nets. Yann believes more innate machinery is required but only a little amount of it. Yann considers learning algorithm advances are need more than innate machinery*
