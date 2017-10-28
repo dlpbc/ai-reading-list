@@ -2,7 +2,7 @@
 The paper investigated the application of deep convolutional neural network architecture in predicting odometry for a moving agent/robot. Odometry entails using data from motion sensors predicting/measuring change in position of an agent over time (e.g. robot, self driving cars etc). **Visual Odometry**, you simply use camera input (like video) as your motion sensing device. The paper focused on monocular visual odometry, which is based on a single camera sensor as input.
 
 ### Architecture used
-**(AlexNet)[https://en.wikipedia.org/wiki/AlexNet]**
+**[AlexNet](https://en.wikipedia.org/wiki/AlexNet)**
 
 ### Data Set
 The authors employed the KITTI Vision benchmark dataset only considering video sequences from a single camera (monocular vision). 
