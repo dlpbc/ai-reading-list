@@ -1,13 +1,13 @@
 ## Note
-The paper entailed applying deep conv net architecture to predicting odometry for a moving agent/robot. Odometry entails using data from motion sensors predicting/measuring change in position of an agent over time (e.g. robot, self driving cars etc). For visual odometry, you simply use camera input (like video) as your motion sensing device.
+The paper investigated the application of deep convolutional neural network architecture in predicting odometry for a moving agent/robot. Odometry entails using data from motion sensors predicting/measuring change in position of an agent over time (e.g. robot, self driving cars etc). **Visual Odometry**, you simply use camera input (like video) as your motion sensing device. The paper focused on monocular visual odometry, which is based on a single camera sensor as input.
 
 ### Architecture used
-AlexNet
+**(AlexNet)[https://en.wikipedia.org/wiki/AlexNet]**
 
 ### Data Set
 The authors employed the KITTI Vision benchmark dataset only considering video sequences from a single camera (monocular vision). 
 
-The authors generated each training example as consecutive image pairs from video frames (i.e. at time step t, the generated example will be Image<sub>t</sub> and Image<sub>t+1</sub> in the video) 
+The authors generated each training example as consecutive image pairs from video frames (i.e. at time step t, the generated example will be **Image<sub>t</sub>** and **Image<sub>t+1</sub>** in the video) 
 
 ### Train/Test Data Arrangement
 The authors experimented with different structures of train and test data. First, they experiment with training network whereby the train and test data was generated from a combined source of 11 videos (with different train/test split 50:50 and 80:20). Hence the test data contains scenes that's also in the train data (train and test data contained overlapping scenes). They called this testing with **known environment**. Secondly, they experiment with training a network whereby the train and test data was generated from seperate videos (7 videos for train data, 4 videos for test data). Hence the test data contains scenes that are completely different from scenes in the train data (train and test data cotaiend disjoint scenes). They called this **testing with unknown environment**. 
