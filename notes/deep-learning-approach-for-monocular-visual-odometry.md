@@ -2,7 +2,7 @@
 The paper investigated the application of deep convolutional neural network architecture in predicting odometry for a moving agent/robot. Odometry entails using data from motion sensors predicting/measuring change in position of an agent over time (e.g. robot, self driving cars etc). **Visual Odometry**, you simply use camera input (like video) as your motion sensing device. The paper focused on monocular visual odometry, which is based on a single camera sensor as input.
 
 ### Architecture used
-**[AlexNet](https://en.wikipedia.org/wiki/AlexNet)**
+AlexNet (a convoluational neural network architecture)
 
 ### Data Set
 The authors employed the KITTI Vision benchmark dataset only considering video sequences from a single camera (monocular vision). 
@@ -17,12 +17,12 @@ The authors also experimented with a variant of the **testing unknown environmen
 ### Model Type
 The task was modeled as a regression problem, to predict delta_x, delta_z and delta_theta.
 
-#### Results
+### Results
 The experiment involving test with known environment performed far better than testing with unknown environment. Furthermore, in the knwon environment experiment, the 80:20 train/test split performed better than the 50:50 train/test split.
 
 The experiment with the variant of testing unknown environment also performed poorly.
 
-#### Future Work
+### Future Work
 In analysising the result form known environment experiment, the authors noted that the deviation of the prediction from ground truth (label) increased over time. With respect to this, the authors posited the following as future work:
 - adding recurent connection: from my perspective, this makes sense to experiment with as video data can be modeled as a sequence of frames (i.e. sequential data, hence recurrence)
 - using generative networks to predict the next scene: from my perspective, this should be common sense reason from video frame that Yann Lecun is looking into.
