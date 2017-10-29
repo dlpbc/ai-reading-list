@@ -20,3 +20,6 @@ https://github.com/pkmital/tensorflow_tutorials
 
 ## How to unit test machine learning code
 https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765
+
+## Teaching Cars To See — Advanced Lane Detection Using Computer Vision
+https://medium.com/towards-data-science/teaching-cars-to-see-advanced-lane-detection-using-computer-vision-87a01de0424f
