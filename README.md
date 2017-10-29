@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=bLqJHjXihK8
 
 #### [Neural Optimizer search] - research-paper, meta-learning  
 https://arxiv.org/abs/1709.07417  
-*Short Note: neural optimizer. authors learnt new optimizers from cifar-10 dataset and claim that they generalise to other tasks. (More notes to come)*
+*Short Note: neural optimizer. authors learnt new optimizers from cifar-10 dataset and claim that they generalise to other tasks. [View detailed note](https://github.com/dlpbc/ai-reading-list/blob/master/notes/neural-optimizer-search-with-reinforcement-learning.md)*
 
 #### [Today’s Weak AI Lacks Intelligence by Numenta] - blogpost
 https://medium.com/@Numenta/todays-weak-ai-lacks-intelligence-49869b4c61ae  
