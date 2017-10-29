@@ -17,3 +17,6 @@ https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=0
 
 ## Simple introduction to deep learning techniques (cnns, rnns, vae) using tensorflow
 https://github.com/pkmital/tensorflow_tutorials
+
+[How to unit test machine learning code]
+https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765
