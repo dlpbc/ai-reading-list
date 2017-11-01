@@ -19,7 +19,11 @@ https://www.youtube.com/watch?v=Sss2EA4hhBQ&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_
 #### [Building your own neural machine translation system] - blogpost, nmt, seq2seq  
 https://research.googleblog.com/2017/07/building-your-own-neural-machine.html  
 *Short Note:*
-  
+
+#### [Unsupervised Neural Machine Translation] - nmt, research-paper
+https://arxiv.org/abs/1710.11041
+*Short Note:*
+
 
 ## Read/Watched
 #### [Learning Through Interaction: Generalisation in Robot RL] - video (highly technical)  
