@@ -21,7 +21,7 @@ https://research.googleblog.com/2017/07/building-your-own-neural-machine.html
 *Short Note:*
 
 #### [Unsupervised Neural Machine Translation] - nmt, research-paper
-https://arxiv.org/abs/1710.11041
+https://arxiv.org/abs/1710.11041  
 *Short Note:*
 
 
