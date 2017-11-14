@@ -23,3 +23,14 @@ https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd817
 
 ## Teaching Cars To See — Advanced Lane Detection Using Computer Vision
 https://medium.com/towards-data-science/teaching-cars-to-see-advanced-lane-detection-using-computer-vision-87a01de0424f
+
+## Cornell Natural Language Visual Reasoning (NLVR) Challenge
+http://lic.nlp.cornell.edu/nlvr/
+
+## NIPS 2017 Reproducibility Challenge
+https://nurture.ai/nips-challenge/  
+Submission deadline: *31st January, 2018*
+
+## ICLR 2018 Reproducibility Challenge
+http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html  
+Final submission/deadline: *December 15 2017*
