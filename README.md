@@ -2,7 +2,7 @@
 ## Unread/Unwatched
 #### [Meta Learning] - article, meta-learning  
 https://www.cifar.ca/assets/machines-learn-new-ways-of-learning/  
-*Short Note: *
+*Short Note:*
 
 #### [Synthetic Gradients] - blog post, speeding-up-training-nn  
 http://iamtrask.github.io/2017/03/21/synthetic-gradients/  
@@ -33,9 +33,9 @@ https://www.youtube.com/watch?v=Ko8IBbYjdq8
 #### [Understanding why Deep Nets work - Information bottleneck] - article, video (highly technical)  
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/  
 https://www.youtube.com/watch?v=bLqJHjXihK8  
-*Short Note: An hypothesis/theory of why/how (deep) neural nets works well. The basic idea is that the network learns to forget irrelevant parts of the training sample. Hence, only relevant information (features) of the training samples are squeezed through (the metaphorical bottleneck) as you propagate forward from layer to layer in a neural net.  
-**Update: (some part of) this theory is being refuted by a paper in the upcoming ICLR 2018 still on [open review](https://openreview.net/forum?id=ry_WPG-A-). I'll try to follow up on this.**
-*
+*Short Note: An hypothesis/theory of why/how (deep) neural nets works well. The basic idea is that the network learns to forget irrelevant parts of the training sample. Hence, only relevant information (features) of the training samples are squeezed through (the metaphorical bottleneck) as you propagate forward from layer to layer in a neural net.*  
+**Update: (some part of) this theory is being refuted by a paper in the upcoming ICLR 2018 still on [open review](https://openreview.net/forum?id=ry_WPG-A-).** *I'll try to keep an eye on this paper.*
+
 
 #### [Neural Optimizer search] - research-paper, meta-learning  
 https://arxiv.org/abs/1709.07417  
