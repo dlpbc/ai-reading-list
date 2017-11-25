@@ -35,5 +35,5 @@ Submission deadline: *31st January, 2018*
 http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html  
 Final submission/deadline: *December 15 2017*
 
-## Overview of Notable Deep Net Architectures Developed for Object Classification
+## Overview of Notable Deep Net Architectures Developed for Computer Vision Tasks
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
