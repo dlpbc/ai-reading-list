@@ -61,4 +61,4 @@ http://cs.stanford.edu/people/karpathy/deepvideo/
 
 #### [Machines learn new ways of learning] - article, meta-learning  
 https://www.cifar.ca/assets/machines-learn-new-ways-of-learning/  
-*Short Note: A very high level description about what meta-learning (i.e. learning to learn) is all about. This is a good introduction to meta-learning, with pointers to some possible research direction.*
+*Short Note: A very high level description about what meta-learning (i.e. learning to learn) is all about. This is a good introduction to meta-learning, with pointers to possible research direction.*
