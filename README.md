@@ -1,8 +1,6 @@
 
 ## Unread/Unwatched
-#### [Meta Learning] - article, meta-learning  
-https://www.cifar.ca/assets/machines-learn-new-ways-of-learning/  
-*Short Note:*
+
 
 #### [Synthetic Gradients] - blog post, speeding-up-training-nn  
 http://iamtrask.github.io/2017/03/21/synthetic-gradients/  
@@ -59,4 +57,8 @@ https://einstein.ai/research/non-autoregressive-neural-machine-translation
 
 #### [Large-scale Video Classification with Convolutional Neural Networks] - research-paper, computer-vision
 http://cs.stanford.edu/people/karpathy/deepvideo/  
-*Short Note: The authors carried out an empirical (experimental) studies of using conv net for video classification task in a new dataset they introduced (Youtube Sport 1M) and further used transfer learning to experiment with the trained model in evaluating another dataset UCF-101. They experimented with different CNN architectures of 2 major classes (i.e. a single frame architecture and mutiple frames - shortrange - architectures). Furhtermore, they designed 3 types of multiple frames architecture, namely: (a) late fusion - where two seperate conv net are employed for only the first and last frame in the frame range (b) early fusion - where the multiple frames are merged together and fed into a single convnet (c) slow fusion - where the multiple frames are further divided into smaller subsets and each subset is fed into a corresponding convnet and the outputs are fused in a multi-stage process. To speed up training (for single frame), the authors employed a frame (image) resolution trick discussed in the paper. The different architectures were trained on the Youtube-1M dataset. Slow fusion architecture produced the highest test accuracy of 60.9%. Additionally, they applied transfer learning (to test the generalization ability of the model trained on youtube-1m dataset) and test their model on UCF-101 dataset, obtaining a test accuracy of 63.3%.*  
+*Short Note: The authors carried out an empirical (experimental) studies of using conv net for video classification task in a new dataset they introduced (Youtube Sport 1M) and further used transfer learning to experiment with the trained model in evaluating another dataset UCF-101. They experimented with different CNN architectures of 2 major classes (i.e. a single frame architecture and mutiple frames - shortrange - architectures). Furhtermore, they designed 3 types of multiple frames architecture, namely: (a) late fusion - where two seperate conv net are employed for only the first and last frame in the frame range (b) early fusion - where the multiple frames are merged together and fed into a single convnet (c) slow fusion - where the multiple frames are further divided into smaller subsets and each subset is fed into a corresponding convnet and the outputs are fused in a multi-stage process. To speed up training (for single frame), the authors employed a frame (image) resolution trick discussed in the paper. The different architectures were trained on the Youtube-1M dataset. Slow fusion architecture produced the highest test accuracy of 60.9%. Additionally, they applied transfer learning (to test the generalization ability of the model trained on youtube-1m dataset) and test their model on UCF-101 dataset, obtaining a test accuracy of 63.3%.* 
+
+#### [Machines learn new ways of learning] - article, meta-learning  
+https://www.cifar.ca/assets/machines-learn-new-ways-of-learning/  
+*Short Note: A very high level description about what meta-learning (i.e. learning to learn) is all about. This is a good introduction to meta-learning with some pointers about possible research directions.*
