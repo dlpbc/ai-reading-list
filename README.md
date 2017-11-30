@@ -11,7 +11,7 @@ blog post link: https://deepmind.com/research/publications/overcoming-catastroph
 *Short Note: The paper focus on adding the capability of memory to neural nets. This means that neural nets with this capability can learn a task, forming connections between some neurons (in its entire net of neurons) and then learn another task by forming connections using its earlier unused neurons. This process continues for each new task. With this capability, the neural nets is being taught to learn new tasks and not forget the old tasks it learnt previously (e.g just like humans learning how to ride a bike and then later learning how to play chess, without forgetting how to ride bikes that the human earlier learnt).*
 
 #### [Implementing the Deep Q-Network] - research-paper, deep-reinforcement-learning, dqn  
-https://arxiv.org/pdf/1711.07478.pdf
+https://arxiv.org/pdf/1711.07478.pdf  
 *Short Note: This work focused on replicating DQN and reproducing the results from the original paper*
 
 #### [Synthetic Gradients] - blog post, speeding-up-training-nn  
