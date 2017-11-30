@@ -1,6 +1,10 @@
 
 ## Unread/Unwatched
 
+#### [Sequence Modeling With Connectionist Temporal Classification (CTC)] - blogpost, ctc, sequence-modelling  
+https://distill.pub/2017/ctc/  
+*Short Note: *
+
 #### [Overcoming catastrophic forgetting in neural networks] - research-paper, neural-nets  
 https://arxiv.org/abs/1612.00796  
 blog post link: https://deepmind.com/research/publications/overcoming-catastrophic-forgetting-neural-networks/  
