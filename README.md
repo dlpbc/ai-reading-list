@@ -1,10 +1,10 @@
 
 ## Unread/Unwatched
 
-#### [Overcoming catastrophic forgetting in neural networks] - research-paper, neural-nets
+#### [Overcoming catastrophic forgetting in neural networks] - research-paper, neural-nets  
 https://arxiv.org/abs/1612.00796  
 blog post link: https://deepmind.com/research/publications/overcoming-catastrophic-forgetting-neural-networks/  
-*Short Note: The paper focus on adding the capability of memory to neural nets. This means that neural nets with this capability can learn a task, forming connections between some neurons (in its entire net of neurons) and then learn another task by forming connections using its earlier unused neurons. This process continues for each new task. With this capability, the neural nets is being taught to learn new tasks and not forget the old tasks it learnt previously (e.g just like humans learning how to ride a bike and then later learning how to play chess, without forgetting how to ride bikes that the human earlier learnt).
+*Short Note: The paper focus on adding the capability of memory to neural nets. This means that neural nets with this capability can learn a task, forming connections between some neurons (in its entire net of neurons) and then learn another task by forming connections using its earlier unused neurons. This process continues for each new task. With this capability, the neural nets is being taught to learn new tasks and not forget the old tasks it learnt previously (e.g just like humans learning how to ride a bike and then later learning how to play chess, without forgetting how to ride bikes that the human earlier learnt).*
 
 #### [Synthetic Gradients] - blog post, speeding-up-training-nn  
 http://iamtrask.github.io/2017/03/21/synthetic-gradients/  
