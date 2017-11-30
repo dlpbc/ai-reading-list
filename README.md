@@ -3,7 +3,7 @@
 
 #### [Sequence Modeling With Connectionist Temporal Classification (CTC)] - blogpost, ctc, sequence-modelling  
 https://distill.pub/2017/ctc/  
-*Short Note: *
+*Short Note:*
 
 #### [Overcoming catastrophic forgetting in neural networks] - research-paper, neural-nets  
 https://arxiv.org/abs/1612.00796  
@@ -16,7 +16,7 @@ http://iamtrask.github.io/2017/03/21/synthetic-gradients/
 
 #### [About SGD] - blogpost  
 https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17  
-*Short Note: *
+*Short Note:*
 
 #### [Building your own neural machine translation system] - blogpost, nmt, seq2seq  
 https://research.googleblog.com/2017/07/building-your-own-neural-machine.html  
