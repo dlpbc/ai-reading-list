@@ -14,10 +14,6 @@ http://iamtrask.github.io/2017/03/21/synthetic-gradients/
 https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17  
 *Short Note: *
 
-#### [CMU Fall 2017 NLP Course] - video, nlp-lectures  
-https://www.youtube.com/watch?v=Sss2EA4hhBQ&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT  
-*Short Note: Carnegie Mellon University lectures on Neural Networks for Natural Language Processing (NLP)*
-
 #### [Building your own neural machine translation system] - blogpost, nmt, seq2seq  
 https://research.googleblog.com/2017/07/building-your-own-neural-machine.html  
 *Short Note:*
