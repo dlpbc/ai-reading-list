@@ -36,7 +36,8 @@ https://www.youtube.com/watch?v=Ko8IBbYjdq8
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/  
 https://www.youtube.com/watch?v=bLqJHjXihK8  
 *Short Note: An hypothesis/theory of why/how (deep) neural nets works well. The basic idea is that the network learns to forget irrelevant parts of the training sample. Hence, only relevant information (features) of the training samples are squeezed through (the metaphorical bottleneck) as you propagate forward from layer to layer in a neural net.*  
-**Update: (some part of) this theory is being refuted by a paper in the upcoming ICLR 2018 still on [open review](https://openreview.net/forum?id=ry_WPG-A-).** *I'll try to keep an eye on this paper.*
+**Update: (some part of) this theory is being refuted by a paper in the upcoming ICLR 2018 still on [open review](https://openreview.net/forum?id=ry_WPG-A-).** *I'll try to keep an eye on this paper.*  
+***Another Update:** Standford University has a course (offered in 2017) titled **"Theories of Deep Learning?"**. Recorded videos of lectures were made available. If you're interested in deep learning theories, you can check out the course [here](https://www.researchgate.net/project/Theories-of-Deep-Learning).*
 
 
 #### [Neural Optimizer search] - research-paper, meta-learning  
@@ -69,4 +70,4 @@ https://www.cifar.ca/assets/machines-learn-new-ways-of-learning/
 
 #### [About SGD] - blog-post, deep-learning-theory
 https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17  
-*Short Note: The blog post discuss recent researches (papers between late 2016 to early 2017) that focused on studying and intepreting how SGD optimizer works under the hood. This is a subset of a growing new sub-research area focused on developing theories (and understanding) of deep learning systems.*
+*Short Note: The blog post discuss recent researches (papers between late 2016 to early 2017) that focused on studying and intepreting the nature of SGD optimizer and its underlying principles under the hood. This is a subset of a growing new sub-research area focused on developing theories (and understanding) of deep learning systems. Anyone interested in studying about deep learning theories can also check out this [Stanford course (video lectures)](https://www.researchgate.net/project/Theories-of-Deep-Learning).*
