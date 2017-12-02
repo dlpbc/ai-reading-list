@@ -1,5 +1,12 @@
 # Interesting AI related links
 
+## Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset
+blog post: https://mzl.la/2i2SPGX  
+Source code for software (model): https://github.com/dlpbc/DeepSpeech  
+Open source dataset: https://voice.mozilla.org/data  
+Contribute: https://voice.mozilla.org/  
+Note: You can contribute to the project by donating your voice, via recording of yourself reading a text sentence (provided by mozilla). Alternatively, you can also contribute by cross checking that the label (text sentence) assigned (by the software) to a pre-recorded audio clip is correct.
+
 ## A Year in Computer Vision (published 2017)
 http://www.themtank.org/a-year-in-computer-vision  
 Note: An overview of recent advances (focused on 2016) in different areas (tasks) of computer vision.
