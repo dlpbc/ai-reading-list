@@ -1,8 +1,8 @@
 # Interesting AI related links
 
 ## Fast.ai Linear Algebra course for coders
-https://github.com/fastai/numerical-linear-algebra  
-blog post: http://www.fast.ai/2017/07/17/num-lin-alg/
+http://www.fast.ai/2017/07/17/num-lin-alg/  
+https://github.com/fastai/numerical-linear-algebra
 
 ## Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset
 blog post: https://mzl.la/2i2SPGX  
