@@ -1,4 +1,12 @@
-# Interesting AI related links
+# Other Interesting AI related links in the web
+
+## Machine Learning Terminology Explained
+https://sigmoidal.io/machine-learning-terms/?url  
+Note: Good intro into terminologies in AI such as NLP, CV, Neural Networks etc.
+
+## A Glance at Reinforcement Learning
+http://adgefficiency.com/glance-reinforcement-learning/  
+Note: Good intro to RL for people who already have knowledge about supervised learning, but little or no knowledge of RL.
 
 ## Fast.ai Linear Algebra course for coders
 http://www.fast.ai/2017/07/17/num-lin-alg/  
