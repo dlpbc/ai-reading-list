@@ -1,5 +1,3 @@
-**Draft: [Not complete yet]**
-
 # Notes on the paper: Neural Optimizer Search with Reinforcement Learning
 
 Read the paper [here](https://arxiv.org/abs/1709.07417)
