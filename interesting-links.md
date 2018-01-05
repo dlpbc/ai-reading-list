@@ -1,6 +1,5 @@
 
 ## Unread/Unwatched
-
 #### [Sequence Modeling With Connectionist Temporal Classification (CTC)] - blogpost, ctc, sequence-modelling  
 https://distill.pub/2017/ctc/  
 *Short Note:*
@@ -28,6 +27,10 @@ https://arxiv.org/abs/1710.11041
 
 
 ## Read/Watched
+### [How Could Machines Learn as Efficiently as Animals and Humans] - video, public-lecture, convnets-overview, deep-learning-frontier
+https://youtu.be/0BUr4_ZkA1w
+*Short Note: The lecture contained two major discussions. In the first part, the presenter gave an overview of Machine/Deep Learning from Computer Vision perspective (i.e. Convolutional Neural Networks). In second part, the presenter described what he believes is the next frontier for Machine/Deep Learning also from Computer Vision perspective.[View detailed note](https://github.com/dlpbc/ai-reading-list/blob/master/notes/how-could-machines-learn-as-efficiently-as-animals-and-humans.md)*
+
 #### [Learning Through Interaction: Generalisation in Robot RL] - video (highly technical)  
 https://www.youtube.com/watch?v=Ko8IBbYjdq8  
 *Short Note: Presenter presents a talk on the future of generalisation from two aspects. (a) Generalise to new tasks previously unseen (using visual video prediction) (b) Incorportate experiences from previous tasks into new tasks (few shot/transfer learning)*
