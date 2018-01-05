@@ -1,4 +1,4 @@
-## Notes on the public lecture: How could machines learn as efficiently as animals and humans
+## Notes on the public lecture: How Could Machines Learn as Efficiently as Animals and Humans
 Watch the lecture [here](https://youtu.be/0BUr4_ZkA1w)
 
 ## Detailed Note
