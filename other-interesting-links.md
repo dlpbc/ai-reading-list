@@ -1,5 +1,9 @@
 # Other Interesting AI related links in the web
-## Dataset - a Household Multimodal Environment (HoME) for AI agents
+## Dataset - Moments in Time
+http://moments.csail.mit.edu/  
+Note: a large scale dataset for video action recognition and understanding from MIT/IBM research. This dataset is similar to other video action recognition datasets such as [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads) etc. However, it differs by focusing on creating labels that are *basic* rather than *specific* to a given example. The *basic* labels form a building block that can be used to richly describe a scene. It is made up of 1 million video clip, each clip having a 3 seconds. Check out this [IBM blogpost](https://www.ibm.com/blogs/research/2017/12/ai-video-understanding/) for more information.
+
+## Environment - a Household Multimodal Environment (HoME) for AI agents
 https://home-platform.github.io/  
 Note: HoMe is a simulated platform where AI agents/bots can learn from vision, audio, simulated physics, and interaction with objects and other agents. Another platform similar to this one is the [OpenAI Gym](https://gym.openai.com/envs/). Work done in this area mostly focus on creating algorithms that can learn to act/behave appropriately in the environment (simulated 3D world, like a video game)
 
