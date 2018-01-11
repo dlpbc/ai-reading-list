@@ -1,4 +1,7 @@
 # Other Interesting AI related links in the web
+## Dataset - a Household Multimodal Environment (HoME) for AI agents
+https://home-platform.github.io/  
+Note: HoMe is a simulated platform where AI agents/bots can learn from vision, audio, simulated physics, and interaction with objects and other agents. Another platform similar to this one is the [OpenAI Gym](https://gym.openai.com/envs/). Work done in this area mostly focus on creating algorithms that can learn to act/behave appropriately in the environment (simulated 3D world, like a video game)
 
 ## Visual Question Answering (VQA) Challenge
 http://www.visualqa.org/challenge.html  
