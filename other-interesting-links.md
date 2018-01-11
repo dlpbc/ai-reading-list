@@ -1,5 +1,9 @@
 # Other Interesting AI related links in the web
-## Dataset - Moments in Time
+## Dataset - SLAC (MIT/Facbook Research)
+http://slac.csail.mit.edu/  
+Note: Sparsely Labeled ACtion (SLAC) dataset consist of 200 classes of 520K untrimmed videos and 1.75 Million clip annotations (clips trimmed from the 520K videos). It is large scale dataset for video action recognition and localisation. Just like the **Moments in Time Dataset**, it is similar to other video action recognition datasets such as [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads) etc.
+
+## Dataset - Moments in Time (MIT/IBM)
 http://moments.csail.mit.edu/  
 Note: a large scale dataset for video action recognition and understanding from MIT/IBM research. This dataset is similar to other video action recognition datasets such as [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads) etc. However, it differs by focusing on creating labels that are *basic* rather than *specific* to a given example. The *basic* labels form a building block that can be used to richly describe a scene. It is made up of 1 million video clip, each clip having a 3 seconds. Check out this [IBM blogpost](https://www.ibm.com/blogs/research/2017/12/ai-video-understanding/) for more information.
 
