@@ -1,5 +1,14 @@
 # Other Interesting AI related links in the web
 
+## Visual Question Answering (VQA) Challenge
+http://www.visualqa.org/challenge.html  
+Note: Challenge to build an AI system that can answer a natural language question about an image.  
+[Pytorch implementation](https://github.com/hengyuan-hu/bottom-up-attention-vqa) of the winning entry of 2017 VQA challenge.
+
+## Statistical Computing for Scientists and Engineers
+https://www.zabaras.com/statisticalcomputing  
+Note: The course covers techniques/tools/methods used in Bayesian Machine Learning.
+
 ## Machine Learning Terminology Explained
 https://sigmoidal.io/machine-learning-terms/?url  
 Note: Good intro into terminologies in AI such as NLP, CV, Neural Networks etc.
