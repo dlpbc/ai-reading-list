@@ -21,7 +21,6 @@ Note: flash cards for machine learning (full collection requires payment)
 ### Learned Image Compression Challenge for CVPR 2018
 http://www.compression.cc/  
 https://research.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html  
-Note: Challenge introduced in collaboration with Google, Twitter and ETH Zurich.
 Result Submission Deadline: 22nd April, 2018
 
 ### Video Bandwidth Estimation Challenge for ICME 2018
