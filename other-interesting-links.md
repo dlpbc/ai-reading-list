@@ -18,6 +18,16 @@ Note: flash cards for machine learning (full collection requires payment)
 
 # Challenges
 
+### Learned Image Compression Challenge for CVPR 2018
+http://www.compression.cc/  
+https://research.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html  
+Note: Challenge introduced in collaboration with Google, Twitter and ETH Zurich.
+Result Submission Deadline: 22nd April, 2018
+
+### Video Bandwidth Estimation Challenge for ICME 2018
+https://blog.twitch.tv/twitch-invites-you-to-take-on-the-icme-2018-grand-challenge-2b3824d3537b  
+Submission Deadline: 15th, Februrary 2018
+
 ### NVIDIA AI City Challenge
 https://www.aicitychallenge.org/  
 Proposal Submission Deadline: *10th January, 2018*  
@@ -87,6 +97,10 @@ https://github.com/fastai/numerical-linear-algebra
   
   
 # Blog Posts
+### Turning Design Mockups Into Code With Deep Learning
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/  
+https://github.com/emilwallner/Screenshot-to-code-in-Keras  
+
 ### A Year in Computer Vision (published 2017)
 http://www.themtank.org/a-year-in-computer-vision  
 Note: An overview of recent advances (focused on 2016) in different areas (tasks) of computer vision.
