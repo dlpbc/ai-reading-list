@@ -128,3 +128,11 @@ https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=0
 ### Simple Introduction to Deep Learning Techniques (CNNs, RNNs, VAE) using tensorflow
 https://github.com/pkmital/tensorflow_tutorials
 Note: Tensorflow implementation of algorithms from simpler ones (such as logistic regression) to more complex ones (such as variational autoencoders)
+
+#### GitXiv
+http://www.gitxiv.com/  
+Note: research-papers + source-code-hosting (for corresponding research) + discussions.
+
+#### ReScience Journal
+http://rescience.github.io/  
+Note: A peer-reviewed journal that promotes/encourages reproducible and replicatable research.
