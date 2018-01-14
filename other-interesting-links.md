@@ -17,7 +17,6 @@ https://machinelearningflashcards.com/
 Note: flash cards for machine learning (full collection requires payment)
 
 # Challenges
-
 ### Learned Image Compression Challenge for CVPR 2018
 http://www.compression.cc/  
 https://research.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html  
@@ -72,6 +71,9 @@ https://github.com/carla-simulator/carla
 Note: Open-source simulator for autonomous driving research.
    
 # Courses / Lectures
+### Cornell University Spring 2014 - Non-Linear Dynamics and Choas Theory
+https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V  
+Note: Useful for the Mathematics behind Recurrent Neural Networks (RNNs)
 
 ### Statistical Computing for Scientists and Engineers
 https://www.zabaras.com/statisticalcomputing  
