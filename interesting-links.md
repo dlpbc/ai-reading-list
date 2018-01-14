@@ -1,7 +1,8 @@
 
 ## Unread/Unwatched
 #### [Adversarial Learning for Good...] - blogpost, adversarial-machine-learning
-http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/
+http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/  
+*Short Note: Introduction to Adversarial Machine Learning.*
 
 
 #### [Semi-supervised image classification explained] - blogpost, semi-supervised-learning
