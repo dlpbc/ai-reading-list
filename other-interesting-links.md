@@ -35,6 +35,11 @@ Note: Open-source simulator for autonomous driving research.
 
 # Challenges
 
+### NVIDIA AI City Challenge
+https://www.aicitychallenge.org/  
+Proposal Submission Deadline: *10th January, 2018*  
+Note: This challenge is a workshop and competition for CVPR 2018.
+
 ### Visual Question Answering (VQA) Challenge
 http://www.visualqa.org/challenge.html  
 Note: Challenge to build an AI system that can answer a natural language question about an image.  
@@ -49,9 +54,12 @@ http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html
 Final submission/deadline: *December 15 2017*
 
 ### Cornell Natural Language Visual Reasoning (NLVR) Challenge
-http://lic.nlp.cornell.edu/nlvr/
-  
-   
+http://lic.nlp.cornell.edu/nlvr/  
+
+## Visual Decathlon Challenge
+http://www.robots.ox.ac.uk/~vgg/decathlon/  
+Submission deadline: *20th July, 2017*  
+Note: The goal of the challenge was to solve silmutaneously image classification problem from 10 different visual domains (datasets). It was setup as part of Pascal in Detail Workshop Challenge, CVPR 2017.
    
 # Courses / Lectures
 
