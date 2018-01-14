@@ -1,5 +1,9 @@
 
 ## Unread/Unwatched
+#### [Adversarial Learning for Good...] - blogpost, adversarial-machine-learning
+http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/
+
+
 #### [Semi-supervised image classification explained] - blogpost, semi-supervised-learning
 http://thecuriousaicompany.com/mean-teacher/  
 *Short Note: The blopgost gave an overview of a couple of semi-supervised learning techniques/algorithms and ended with a description of the authors' semi-supervised technique (called mean teacher) introduced in a researh paper presented at NIPS 2017.*
