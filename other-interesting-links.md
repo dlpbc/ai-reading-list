@@ -96,10 +96,6 @@ https://github.com/fastai/numerical-linear-algebra
   
   
 # Blog Posts
-### Turning Design Mockups Into Code With Deep Learning
-https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/  
-https://github.com/emilwallner/Screenshot-to-code-in-Keras  
-
 ### A Year in Computer Vision (published 2017)
 http://www.themtank.org/a-year-in-computer-vision  
 Note: An overview of recent advances (focused on 2016) in different areas (tasks) of computer vision.
@@ -116,6 +112,9 @@ https://medium.com/towards-data-science/teaching-cars-to-see-advanced-lane-detec
   
   
 # Projects
+### Turning Design Mockups Into Code With Deep Learning
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/  
+https://github.com/emilwallner/Screenshot-to-code-in-Keras  
 
 ### Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset
 blog post: https://mzl.la/2i2SPGX  
