@@ -1,5 +1,9 @@
 
 ## Unread/Unwatched
+#### [Semi-supervised image classification explained] - blogpost, semi-supervised-learning
+http://thecuriousaicompany.com/mean-teacher/  
+*Short Note: The blopgost gave an overview of a couple of semi-supervised learning techniques/algorithms and ended with a description of the authors' semi-supervised technique (called mean teacher) introduced in a researh paper presented at NIPS 2017.*
+
 #### [Sequence Modeling With Connectionist Temporal Classification (CTC)] - blogpost, ctc, sequence-modelling  
 https://distill.pub/2017/ctc/  
 *Short Note:*
