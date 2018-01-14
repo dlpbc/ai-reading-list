@@ -2,7 +2,7 @@
 ## Unread/Unwatched
 #### [Physical Adversarial Examples Against Deep Neural Networks] - blogpost, adversarial-machine-learning
 http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/  
-*Short Note: *
+*Short Note:*
 
 #### [Adversarial Learning for Good...] - blogpost, adversarial-machine-learning
 http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/  
