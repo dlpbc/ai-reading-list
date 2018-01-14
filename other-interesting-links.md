@@ -71,23 +71,23 @@ https://github.com/carla-simulator/carla
 Note: Open-source simulator for autonomous driving research.
    
 # Courses / Lectures
-### Cornell University Spring 2014 - Non-Linear Dynamics and Choas Theory
+### Cornell University, Spring 2014 - Non-Linear Dynamics and Choas Theory
 https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V  
 Note: Useful for the Mathematics behind Recurrent Neural Networks (RNNs)
 
-### Statistical Computing for Scientists and Engineers
+### University of Notre Dame, Fall 2017 - Statistical Computing for Scientists and Engineers
 https://www.zabaras.com/statisticalcomputing  
 Note: The course covers techniques/tools/methods used in Bayesian Machine Learning.
 
-### University of Toronto Fall 2017 - CSC2541: Scalable and Flexible Models of Uncertainty
+### University of Toronto, Fall 2017 - CSC2541: Scalable and Flexible Models of Uncertainty
 https://csc2541-f17.github.io/  
 Note: University of Toronto's course on Bayesian Neural Networks
 
-### CMU Fall 2017 - Neural Nets for NLP
+### CMU, Fall 2017 - Neural Nets for NLP
 https://www.youtube.com/watch?v=Sss2EA4hhBQ&list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT  
 Note: Carnegie Mellon University lectures on Neural Networks for Natural Language Processing (NLP)
 
-### Stanford University Fall 2017 - Theories of Deep Learning?
+### Stanford University, Fall 2017 - Theories of Deep Learning?
 https://stats385.github.io/  (external course website)  
 https://www.researchgate.net/project/Theories-of-Deep-Learning (contains links to lecture videos)
 
