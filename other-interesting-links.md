@@ -135,6 +135,9 @@ However, there's an open source implementation of this tool. (I haven't tried it
   
   
 # Others
+### Artificial Intelligence Open Network (AI.ON)
+https://ai-on.org  
+Note: Open community dedicated to advancing Artificial Intelligence via volunteer researchers working on challenges curated by experts in the field.
 
 ### Gentler introduction to Variational Auto Encoder (VAE)
 https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=0
