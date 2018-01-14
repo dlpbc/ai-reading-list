@@ -11,8 +11,10 @@ https://developers.google.com/machine-learning/glossary/
 ### A Glance at Reinforcement Learning
 http://adgefficiency.com/glance-reinforcement-learning/  
 Note: Good intro to RL for people who already have knowledge about supervised learning, but little or no knowledge of RL.
-  
-  
+
+## Machine Learning Flash Cards
+https://machinelearningflashcards.com/
+Note: flash cards for machine learning (full collection requires payment)
   
 # Datasets and Enviroments
 ### Dataset - SLAC (MIT/Facbook Research)
