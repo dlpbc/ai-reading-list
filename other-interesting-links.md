@@ -13,25 +13,8 @@ http://adgefficiency.com/glance-reinforcement-learning/
 Note: Good intro to RL for people who already have knowledge about supervised learning, but little or no knowledge of RL.
 
 ## Machine Learning Flash Cards
-https://machinelearningflashcards.com/
+https://machinelearningflashcards.com/  
 Note: flash cards for machine learning (full collection requires payment)
-  
-# Datasets and Enviroments
-### Dataset - SLAC (MIT/Facbook Research)
-http://slac.csail.mit.edu/  
-Note: Sparsely Labeled ACtion (SLAC) dataset consist of 200 classes of 520K untrimmed videos and 1.75 Million clip annotations (clips trimmed from the 520K videos). It is large scale dataset for video action recognition and localisation. Just like the **Moments in Time Dataset**, it is similar to other video action recognition datasets such as [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads) etc.
-
-### Dataset - Moments in Time (MIT/IBM Research)
-http://moments.csail.mit.edu/  
-Note: a large scale dataset for video action recognition and understanding from MIT/IBM research. This dataset is similar to other video action recognition datasets such as [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads) etc. However, it differs by focusing on creating labels that are *basic* rather than *specific* to a given example. The *basic* labels form a building block that can be used to richly describe a scene. It is made up of 1 million video clip, each clip having a 3 seconds. Check out this [IBM blogpost](https://www.ibm.com/blogs/research/2017/12/ai-video-understanding/) for more information.
-
-### Environment - a Household Multimodal Environment (HoME) for AI agents
-https://home-platform.github.io/  
-Note: HoMe is a simulated platform where AI agents/bots can learn from vision, audio, simulated physics, and interaction with objects and other agents. Another platform similar to this one is the [OpenAI Gym](https://gym.openai.com/envs/). Work done in this area mostly focus on creating algorithms that can learn to act/behave appropriately in the environment (simulated 3D world, like a video game)
-
-### Environment - CARLA
-https://github.com/carla-simulator/carla
-Note: Open-source simulator for autonomous driving research.
 
 # Challenges
 
@@ -60,6 +43,24 @@ http://lic.nlp.cornell.edu/nlvr/
 http://www.robots.ox.ac.uk/~vgg/decathlon/  
 Submission deadline: *20th July, 2017*  
 Note: The goal of the challenge was to solve silmutaneously image classification problem from 10 different visual domains (datasets). It was setup as part of Pascal in Detail Workshop Challenge, CVPR 2017.
+
+
+# Datasets and Enviroments
+### Dataset - SLAC (MIT/Facbook Research)
+http://slac.csail.mit.edu/  
+Note: Sparsely Labeled ACtion (SLAC) dataset consist of 200 classes of 520K untrimmed videos and 1.75 Million clip annotations (clips trimmed from the 520K videos). It is large scale dataset for video action recognition and localisation. Just like the **Moments in Time Dataset**, it is similar to other video action recognition datasets such as [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads) etc.
+
+### Dataset - Moments in Time (MIT/IBM Research)
+http://moments.csail.mit.edu/  
+Note: a large scale dataset for video action recognition and understanding from MIT/IBM research. This dataset is similar to other video action recognition datasets such as [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [HMDB-51](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads) etc. However, it differs by focusing on creating labels that are *basic* rather than *specific* to a given example. The *basic* labels form a building block that can be used to richly describe a scene. It is made up of 1 million video clip, each clip having a 3 seconds. Check out this [IBM blogpost](https://www.ibm.com/blogs/research/2017/12/ai-video-understanding/) for more information.
+
+### Environment - a Household Multimodal Environment (HoME) for AI agents
+https://home-platform.github.io/  
+Note: HoMe is a simulated platform where AI agents/bots can learn from vision, audio, simulated physics, and interaction with objects and other agents. Another platform similar to this one is the [OpenAI Gym](https://gym.openai.com/envs/). Work done in this area mostly focus on creating algorithms that can learn to act/behave appropriately in the environment (simulated 3D world, like a video game)
+
+### Environment - CARLA
+https://github.com/carla-simulator/carla
+Note: Open-source simulator for autonomous driving research.
    
 # Courses / Lectures
 
