@@ -96,8 +96,13 @@ http://www.fast.ai/2017/07/17/num-lin-alg/
 https://github.com/fastai/numerical-linear-algebra
   
   
-  
 # Blog Posts
+### Faster R-CNN: Down the rabbit hole of modern object detection
+https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/  
+
+### 15 Deep Learning Open Courses and Tutorials
+https://sky2learn.com/deep-learning-reinforcement-learning-online-courses-and-tutorials-theory-and-applications.html  
+
 ### A Year in Computer Vision (published 2017)
 http://www.themtank.org/a-year-in-computer-vision  
 Note: An overview of recent advances (focused on 2016) in different areas (tasks) of computer vision.
