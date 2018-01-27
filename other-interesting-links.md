@@ -71,6 +71,10 @@ https://github.com/carla-simulator/carla
 Note: Open-source simulator for autonomous driving research.
    
 # Courses / Lectures
+### University of Carlifonia Berkeley - Convex Optimization and Approximation
+https://ee227c.github.io/
+Note: Useful for getting better understanding of optimization techniques used in Machine Learning (e.g. Gradient Descent)
+
 ### Cornell University, Spring 2014 - Non-Linear Dynamics and Choas Theory
 https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V  
 Note: Useful for the Mathematics behind Recurrent Neural Networks (RNNs)
@@ -151,10 +155,10 @@ https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=0
 https://github.com/pkmital/tensorflow_tutorials
 Note: Tensorflow implementation of algorithms from simpler ones (such as logistic regression) to more complex ones (such as variational autoencoders)
 
-#### GitXiv
+### GitXiv
 http://www.gitxiv.com/  
 Note: research-papers + source-code-hosting (for corresponding research) + discussions.
 
-#### ReScience Journal
+### ReScience Journal
 http://rescience.github.io/  
 Note: A peer-reviewed journal that promotes/encourages reproducible and replicatable research.
