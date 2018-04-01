@@ -39,6 +39,10 @@ https://arxiv.org/abs/1710.11041
 
 
 ## Read/Watched
+#### [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results] - research-paper, semi-supervised-leanring
+https://arxiv.org/abs/1703.01780  
+*Short Note: A semi-supervised learning technique (learning from labelled and unlabelled examples) that improves on previously introduced semi-supervised learning techniques. It is made up of 2 models - teacher and student. The teacher model is an exponential moving average of student model weights over training steps. This produces a strong teacher model which in turn helps improve the student model. Experiments were carried out only on image classification tasks. The authors also suggested that a combination of proposed technique and [this technique](https://arxiv.org/abs/1704.03976) may lead to better result as they are complementary in nature.*
+
 #### [How Could Machines Learn as Efficiently as Animals and Humans] - video, public-lecture, convnets-overview, deep-learning-frontier
 https://youtu.be/0BUr4_ZkA1w  
 *Short Note: The lecture contained two major parts (past/present works and then future works). In the first part, the presenter gave an overview of Machine/Deep Learning from Computer Vision perspective (i.e. Convolutional Neural Networks). In second part, the presenter described what he believes is the next frontier for Machine/Deep Learning also from Computer Vision perspective (which the presenter calls predictive learning or learning common sense). [View detailed note](https://github.com/dlpbc/ai-reading-list/blob/master/notes/how-could-machines-learn-as-efficiently-as-animals-and-humans.md)*
