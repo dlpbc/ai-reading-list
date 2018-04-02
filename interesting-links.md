@@ -8,10 +8,6 @@ http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/
 http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/  
 *Short Note: Introduction to Adversarial Machine Learning.*
 
-#### [Semi-supervised image classification explained] - blogpost, semi-supervised-learning
-http://thecuriousaicompany.com/mean-teacher/  
-*Short Note: The blopgost gave an overview of a couple of semi-supervised learning techniques/algorithms and ended with a description of the authors' semi-supervised technique (called mean teacher) introduced in a researh paper presented at NIPS 2017.*
-
 #### [Sequence Modeling With Connectionist Temporal Classification (CTC)] - blogpost, ctc, sequence-modelling  
 https://distill.pub/2017/ctc/  
 *Short Note:*
@@ -42,6 +38,10 @@ https://arxiv.org/abs/1710.11041
 #### [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results] - research-paper, semi-supervised-leanring
 https://arxiv.org/abs/1703.01780  
 *Short Note: A semi-supervised learning technique (learning from labelled and unlabelled examples) that improves on previously introduced semi-supervised learning techniques. It is made up of 2 models - teacher and student. The teacher model is an exponential moving average of student model weights over training steps. This produces a strong teacher model which in turn helps improve the student model. Experiments were carried out only on image classification tasks. The authors also suggested that a combination of proposed technique and [this technique](https://arxiv.org/abs/1704.03976) may lead to better result as they are complementary in nature.*
+
+#### [Semi-supervised image classification explained] - blogpost, semi-supervised-learning
+http://thecuriousaicompany.com/mean-teacher/  
+*Short Note: The blopgost gave an overview of a couple of semi-supervised learning techniques/algorithms and ended with a description of the authors' semi-supervised technique (called mean teacher) introduced in a researh paper presented at NIPS 2017.*
 
 #### [How Could Machines Learn as Efficiently as Animals and Humans] - video, public-lecture, convnets-overview, deep-learning-frontier
 https://youtu.be/0BUr4_ZkA1w  
