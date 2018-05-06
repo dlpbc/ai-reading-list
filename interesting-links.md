@@ -1,40 +1,8 @@
-
-## Unread/Unwatched
-#### [Physical Adversarial Examples Against Deep Neural Networks] - blogpost, adversarial-machine-learning
-http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/  
-*Short Note:*
-
-#### [Adversarial Learning for Good...] - blogpost, adversarial-machine-learning
-http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/  
-*Short Note: Introduction to Adversarial Machine Learning.*
-
-#### [Sequence Modeling With Connectionist Temporal Classification (CTC)] - blogpost, ctc, sequence-modelling  
-https://distill.pub/2017/ctc/  
-*Short Note:*
-
-#### [Overcoming catastrophic forgetting in neural networks] - research-paper, neural-nets  
-https://arxiv.org/abs/1612.00796  
-blog post link: https://deepmind.com/research/publications/overcoming-catastrophic-forgetting-neural-networks/  
-*Short Note: The paper focus on adding the capability of memory to neural nets. This means that neural nets with this capability can learn a task, forming connections between some neurons (in its entire net of neurons) and then learn another task by forming connections using its earlier unused neurons. This process continues for each new task. With this capability, the neural nets is being taught to learn new tasks and not forget the old tasks it learnt previously (e.g just like humans learning how to ride a bike and then later learning how to play chess, without forgetting how to ride bikes that the human earlier learnt).*
-
-#### [Implementing the Deep Q-Network] - research-paper, deep-reinforcement-learning, dqn  
-https://arxiv.org/pdf/1711.07478.pdf  
-*Short Note: This work focused on replicating DQN and reproducing the results from the original paper*
-
-#### [Synthetic Gradients] - blog-post, speeding-up-training-nn  
-http://iamtrask.github.io/2017/03/21/synthetic-gradients/  
-*Short Note: rather than actually compute gradient via backprop, each NN layer approximates their gradient by learning.*
-
-#### [Building your own neural machine translation system] - blog-post, nmt, seq2seq  
-https://research.googleblog.com/2017/07/building-your-own-neural-machine.html  
-*Short Note:*
-
-#### [Unsupervised Neural Machine Translation] - nmt, research-paper
-https://arxiv.org/abs/1710.11041  
-*Short Note:*
-
-
 ## Read/Watched
+#### [Realistic Evaluation of Semi-Supervised Learning Algorithms] - research-paper, semi-supervised-leanring
+https://arxiv.org/abs/1804.09170  
+*Short Note: The paper evaluates different state-of-the-art semi-supervised learning approaches for image classification task with the goal of checking how applicable these algorithms are in real world settings. The authors created a unified software model to evaluate these different algorithms and evaluated them on roughly equal computational budget. Lastly, the authors proposed a new experimental methodology to evaluate these algorithms with the aim of pushing progress towards real-world applicability semi-supervised learning algorithm. Code for the unified model/framework will be available at: https://github.com/brain-research/realistic-ssl-evaluation*
+
 #### [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results] - research-paper, semi-supervised-leanring
 https://arxiv.org/abs/1703.01780  
 *Short Note: A semi-supervised learning technique (learning from labelled and unlabelled examples) that improves on previously introduced semi-supervised learning techniques. It is made up of 2 models - teacher and student. The teacher model is an exponential moving average of student model weights over training steps. This produces a strong teacher model which in turn helps improve the student model. Experiments were carried out only on image classification tasks. The authors also suggested that a combination of proposed technique and [this technique](https://arxiv.org/abs/1704.03976) may lead to better result as they are complementary in nature.*
@@ -90,3 +58,38 @@ https://www.cifar.ca/assets/machines-learn-new-ways-of-learning/
 #### [About SGD] - blog-post, deep-learning-theory
 https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17  
 *Short Note: The blog post discuss recent researches (papers between late 2016 to early 2017) that focused on studying and intepreting the nature of SGD optimizer and its underlying principles under the hood. This is a subset of a growing new sub-research area focused on developing theories (and understanding) of deep learning systems. Anyone interested in studying about deep learning theories can also check out this [Stanford course (video lectures)](https://www.researchgate.net/project/Theories-of-Deep-Learning).*
+
+
+## Unread/Unwatched
+#### [Physical Adversarial Examples Against Deep Neural Networks] - blogpost, adversarial-machine-learning
+http://bair.berkeley.edu/blog/2017/12/30/yolo-attack/  
+*Short Note:*
+
+#### [Adversarial Learning for Good...] - blogpost, adversarial-machine-learning
+http://blog.kjamistan.com/adversarial-learning-for-good-my-talk-at-34c3-on-deep-learning-blindspots/  
+*Short Note: Introduction to Adversarial Machine Learning.*
+
+#### [Sequence Modeling With Connectionist Temporal Classification (CTC)] - blogpost, ctc, sequence-modelling  
+https://distill.pub/2017/ctc/  
+*Short Note:*
+
+#### [Overcoming catastrophic forgetting in neural networks] - research-paper, neural-nets  
+https://arxiv.org/abs/1612.00796  
+blog post link: https://deepmind.com/research/publications/overcoming-catastrophic-forgetting-neural-networks/  
+*Short Note: The paper focus on adding the capability of memory to neural nets. This means that neural nets with this capability can learn a task, forming connections between some neurons (in its entire net of neurons) and then learn another task by forming connections using its earlier unused neurons. This process continues for each new task. With this capability, the neural nets is being taught to learn new tasks and not forget the old tasks it learnt previously (e.g just like humans learning how to ride a bike and then later learning how to play chess, without forgetting how to ride bikes that the human earlier learnt).*
+
+#### [Implementing the Deep Q-Network] - research-paper, deep-reinforcement-learning, dqn  
+https://arxiv.org/pdf/1711.07478.pdf  
+*Short Note: This work focused on replicating DQN and reproducing the results from the original paper*
+
+#### [Synthetic Gradients] - blog-post, speeding-up-training-nn  
+http://iamtrask.github.io/2017/03/21/synthetic-gradients/  
+*Short Note: rather than actually compute gradient via backprop, each NN layer approximates their gradient by learning.*
+
+#### [Building your own neural machine translation system] - blog-post, nmt, seq2seq  
+https://research.googleblog.com/2017/07/building-your-own-neural-machine.html  
+*Short Note:*
+
+#### [Unsupervised Neural Machine Translation] - nmt, research-paper
+https://arxiv.org/abs/1710.11041  
+*Short Note:*
