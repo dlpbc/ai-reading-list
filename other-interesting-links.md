@@ -1,6 +1,10 @@
 # Other Interesting AI related links in the web
 # Intro/Overview
 
+### Markov Chains in Python: Beginner Tutorial
+https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial  
+Note: Good intro into Markov Chains.
+
 ### Machine Learning Terminology Explained
 https://sigmoidal.io/machine-learning-terms/?url  
 Note: Good intro into terminologies in AI such as NLP, CV, Neural Networks etc.
