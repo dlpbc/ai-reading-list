@@ -23,8 +23,9 @@ https://www.youtube.com/watch?v=Ko8IBbYjdq8
 https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/  
 https://www.youtube.com/watch?v=bLqJHjXihK8  
 *Short Note: An hypothesis/theory of why/how (deep) neural nets works well. The basic idea is that the network learns to forget irrelevant parts of the training sample. Hence, only relevant information (features) of the training samples are squeezed through (the metaphorical bottleneck) as you propagate forward from layer to layer in a neural net.*  
-**Update: (some part of) this theory is being refuted by a paper in the upcoming ICLR 2018 still on [open review](https://openreview.net/forum?id=ry_WPG-A-).** *I'll try to keep an eye on this paper.*  
+***Update:** (some part of) this theory is being refuted by a paper in the upcoming ICLR 2018 still on [open review](https://openreview.net/forum?id=ry_WPG-A-). I'll try to keep an eye on this paper.*  
 ***Another Update:** Standford University has a course (offered in 2017) titled **"Theories of Deep Learning?"**. Recorded videos of lectures were made available. If you're interested in deep learning theories, you can check out the course [here](https://www.researchgate.net/project/Theories-of-Deep-Learning).*
+***One More Update:** The paper mentioned in the above update was accepted to ICLR 2018. According to the review note, the aim of accepting the paper was to allow continuity of the ongoing debate about the validity of information bottleneck theory.*
 
 
 #### [Neural Optimizer search] - research-paper, meta-learning  
