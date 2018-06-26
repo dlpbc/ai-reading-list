@@ -21,6 +21,24 @@ https://machinelearningflashcards.com/
 Note: flash cards for machine learning (full collection requires payment)
 
 # Challenges
+### CoNaLa: The Code/Natural Language Challenge
+https://conala-corpus.github.io/  
+https://github.com/conala-corpus/conala-baseline/  
+Note: Generate program code snippet from natural language text.
+
+### NIPS 2018: Adversarial Vision Challenge (Robust Model Track)
+https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-robust-model-track  
+Deadline: Not yet announced. Challenge starting soon.  
+
+### AI for Prosthetics challenge - NIPS 2018 Competition Track
+https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge  
+Deadline: Mid September 2018  
+
+### Pommerman - Multi-Agent Learning
+https://www.pommerman.com/  
+Note: Train your team of AI agents. Compete against everyone else's.  
+Deadline: First competition, 3rd June, 2018 and the second 11:59pm Est Nov 21st 2018
+
 ### Learned Image Compression Challenge for CVPR 2018
 http://www.compression.cc/  
 https://research.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html  
@@ -127,6 +145,10 @@ https://medium.com/towards-data-science/teaching-cars-to-see-advanced-lane-detec
   
   
 # Projects
+### Metacar
+https://www.metacar-project.com/  
+Note: A reinforcement learning environment for self-driving cars in the browser.  
+
 ### Turning Design Mockups Into Code With Deep Learning
 https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/  
 https://github.com/emilwallner/Screenshot-to-code-in-Keras  
