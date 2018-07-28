@@ -93,6 +93,9 @@ https://github.com/carla-simulator/carla
 Note: Open-source simulator for autonomous driving research.
    
 # Courses / Lectures
+### Cornell University - Bayesian Machine Learning
+https://people.orie.cornell.edu/andrew/orie6741/
+
 ### University of Carlifonia Berkeley - Convex Optimization and Approximation
 https://ee227c.github.io/
 Note: Useful for getting better understanding of optimization techniques used in Machine Learning (e.g. Gradient Descent)
