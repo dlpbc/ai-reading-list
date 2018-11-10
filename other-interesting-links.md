@@ -1,6 +1,9 @@
 # Other Interesting AI related links in the web
 # Intro/Overview
 
+### Education Resource on Reinforcemnt Learning
+https://blog.openai.com/spinning-up-in-deep-rl/  
+
 ### Markov Chains in Python: Beginner Tutorial
 https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial  
 Note: Good intro into Markov Chains.
