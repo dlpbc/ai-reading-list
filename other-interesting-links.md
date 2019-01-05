@@ -29,54 +29,10 @@ https://conala-corpus.github.io/
 https://github.com/conala-corpus/conala-baseline/  
 Note: Generate program code snippet from natural language text.
 
-### NIPS 2018: Adversarial Vision Challenge (Robust Model Track)
-https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-robust-model-track  
-Deadline: Not yet announced. Challenge starting soon.  
-
-### AI for Prosthetics challenge - NIPS 2018 Competition Track
-https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge  
-Deadline: Mid September 2018  
-
-### Pommerman - Multi-Agent Learning
-https://www.pommerman.com/  
-Note: Train your team of AI agents. Compete against everyone else's.  
-Deadline: First competition, 3rd June, 2018 and the second 11:59pm Est Nov 21st 2018
-
-### Learned Image Compression Challenge for CVPR 2018
-http://www.compression.cc/  
-https://research.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html  
-Result Submission Deadline: 22nd April, 2018
-
-### Video Bandwidth Estimation Challenge for ICME 2018
-https://blog.twitch.tv/twitch-invites-you-to-take-on-the-icme-2018-grand-challenge-2b3824d3537b  
-Submission Deadline: 15th, Februrary 2018
-
-### NVIDIA AI City Challenge
+### AI City Challenge
 https://www.aicitychallenge.org/  
-Proposal Submission Deadline: *10th January, 2018*  
-Note: This challenge is a workshop and competition for CVPR 2018.
-
-### Visual Question Answering (VQA) Challenge
-http://www.visualqa.org/challenge.html  
-Note: Challenge to build an AI system that can answer a natural language question about an image.  
-[Pytorch implementation](https://github.com/hengyuan-hu/bottom-up-attention-vqa) of the winning entry of 2017 VQA challenge.
-
-### NIPS 2017 Reproducibility Challenge
-https://nurture.ai/nips-challenge/  
-Submission deadline: *31st January, 2018*
-
-### ICLR 2018 Reproducibility Challenge
-http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html  
-Final submission/deadline: *December 15 2017*
-
-### Cornell Natural Language Visual Reasoning (NLVR) Challenge
-http://lic.nlp.cornell.edu/nlvr/  
-
-## Visual Decathlon Challenge
-http://www.robots.ox.ac.uk/~vgg/decathlon/  
-Submission deadline: *20th July, 2017*  
-Note: The goal of the challenge was to solve silmutaneously image classification problem from 10 different visual domains (datasets). It was setup as part of Pascal in Detail Workshop Challenge, CVPR 2017.
-
+Proposal Submission Deadline: *9th January, 2019*  
+Note: This challenge is a workshop and competition for CVPR 2019.
 
 # Datasets and Enviroments
 ### Dataset - SLAC (MIT/Facbook Research)
@@ -194,3 +150,58 @@ Note: research-papers + source-code-hosting (for corresponding research) + discu
 ### ReScience Journal
 http://rescience.github.io/  
 Note: A peer-reviewed journal that promotes/encourages reproducible and replicatable research.
+
+  
+# OLD (PAST) Challenges
+### CoNaLa: The Code/Natural Language Challenge
+https://conala-corpus.github.io/  
+https://github.com/conala-corpus/conala-baseline/  
+Note: Generate program code snippet from natural language text.
+
+### NIPS 2018: Adversarial Vision Challenge (Robust Model Track)
+https://www.crowdai.org/challenges/nips-2018-adversarial-vision-challenge-robust-model-track  
+Deadline: Not yet announced. Challenge starting soon.  
+
+### AI for Prosthetics challenge - NIPS 2018 Competition Track
+https://www.crowdai.org/challenges/nips-2018-ai-for-prosthetics-challenge  
+Deadline: Mid September 2018  
+
+### Pommerman - Multi-Agent Learning
+https://www.pommerman.com/  
+Note: Train your team of AI agents. Compete against everyone else's.  
+Deadline: First competition, 3rd June, 2018 and the second 11:59pm Est Nov 21st 2018
+
+### Learned Image Compression Challenge for CVPR 2018
+http://www.compression.cc/  
+https://research.googleblog.com/2018/01/introducing-cvpr-2018-learned-image.html  
+Result Submission Deadline: 22nd April, 2018
+
+### Video Bandwidth Estimation Challenge for ICME 2018
+https://blog.twitch.tv/twitch-invites-you-to-take-on-the-icme-2018-grand-challenge-2b3824d3537b  
+Submission Deadline: 15th, Februrary 2018
+
+### NVIDIA AI City Challenge
+https://www.aicitychallenge.org/  
+Proposal Submission Deadline: *10th January, 2018*  
+Note: This challenge is a workshop and competition for CVPR 2018.
+
+### Visual Question Answering (VQA) Challenge
+http://www.visualqa.org/challenge.html  
+Note: Challenge to build an AI system that can answer a natural language question about an image.  
+[Pytorch implementation](https://github.com/hengyuan-hu/bottom-up-attention-vqa) of the winning entry of 2017 VQA challenge.
+
+### NIPS 2017 Reproducibility Challenge
+https://nurture.ai/nips-challenge/  
+Submission deadline: *31st January, 2018*
+
+### ICLR 2018 Reproducibility Challenge
+http://www.cs.mcgill.ca/~jpineau/ICLR2018-ReproducibilityChallenge.html  
+Final submission/deadline: *December 15 2017*
+
+### Cornell Natural Language Visual Reasoning (NLVR) Challenge
+http://lic.nlp.cornell.edu/nlvr/  
+
+## Visual Decathlon Challenge
+http://www.robots.ox.ac.uk/~vgg/decathlon/  
+Submission deadline: *20th July, 2017*  
+Note: The goal of the challenge was to solve silmutaneously image classification problem from 10 different visual domains (datasets). It was setup as part of Pascal in Detail Workshop Challenge, CVPR 2017.
