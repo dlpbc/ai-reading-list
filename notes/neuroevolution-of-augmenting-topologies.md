@@ -4,7 +4,7 @@
 Read the paper [here](http://www.cs.utexas.edu/~ai-lab/pubs/stanley.gecco02_1.pdf)
 
 ## Summary
-NeuroEvolution is a field that focus on evolving neural systems (i.e. neural networks). In this field, you have a bunch of neural networks that forms a population, and the goal is to evolve (optimise) the population using evolution strategy towards a training objective. It consist of two main approach, which are;
+Neuroevolution is a field that focus on evolving neural systems (i.e. neural networks). In this field, you have a bunch of neural networks that forms a population, and the goal is to evolve (optimise) the population using evolution strategy towards a training objective. It consist of two main approach, which are;
 - evolving weights of a fixed topology/structure (architecture as it is now called in present time)
 - evolving weights and the topology of the network itself. 
 
